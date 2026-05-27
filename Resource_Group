@@ -1,0 +1,4 @@
+resource "azurerm_resrouce_group" "ankush" {
+  name = "ankush_rg"
+  location = "westus"
+  }
